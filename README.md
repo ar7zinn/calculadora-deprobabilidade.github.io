@@ -1,6 +1,3 @@
-# calculadora-deprobabilidade.github.io
-# 1) Faça uma programação em Python de uma calculadora
-# de probabilidade
 
 print("=== CALCULADORA DE PROBABILIDADE ===")
 
